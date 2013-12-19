@@ -1,7 +1,7 @@
 apache-box
 ==========
 
-| Start an Apache server in any directory.
+> A lightweight Apache vm. Available in 5 min.
 
 ## Setup
 1. Install [VirtualBox](https://www.virtualbox.org/)
