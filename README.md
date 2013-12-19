@@ -8,3 +8,4 @@ apache-box
 2. Install [Vagrant](http://www.vagrantup.com/)
 3. Clone this repo ``` git clone https://github.com/jleonard/apache-box.git```
 4. Fire up the VM ```vagrant up```
+5. The server runs on http://localhost:8080
