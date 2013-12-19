@@ -1,7 +1,7 @@
 apache-box
 ==========
 
-> A lightweight Apache vm. Available in 5 min.
+> A lightweight Apache vm.
 
 ## Setup
 1. Install [VirtualBox](https://www.virtualbox.org/)
